@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GP7Final</string>
+    <string name="add">Add Medicine</string>
+    <string name="delete">Delete Medicine</string>
+    <string name="main">Add Medicine Reminder</string>
+</resources>
